@@ -1,9 +1,10 @@
 /*
  * Given 2 strings, write a method to decide if one is a permutation of the other
+ * Cracking the Coding Interview 1.2
  */
 import java.util.*;
 
-public class Permutation {
+public class Permutations {
 
      	public static void main(String[] args) {
             System.out.println(isPermutation("dog", "god"));
