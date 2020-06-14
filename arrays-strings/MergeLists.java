@@ -35,7 +35,7 @@ public class MergeLists {
         ListNode next;
         int val;
 
-        ListNode(int val) {
+        ListNode(int val) { 
             this.val = val;
         }
     }
