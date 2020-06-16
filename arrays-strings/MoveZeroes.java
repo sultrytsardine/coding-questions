@@ -1,3 +1,5 @@
+import java.util.*;
+
 /* 
  * Given an array, move all of the zeroes to the end of the array, preserving the order of the other non-zero elements.
  * The reordering should be done inline with no additional data structures.
