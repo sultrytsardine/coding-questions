@@ -2,6 +2,8 @@ import java.util.*;
 
 /*
  * Given a bad version number, find the version number that caused the issues. Use the provided API "isBadVersion" (provided by the problem).
+ * Binary search between 1 and n, check if current version is bad, if so, then bad version is lower than or equal to current, else it is greater than current.
+ * Time O(logN), space O(1)
  * https://leetcode.com/problems/first-bad-version
  */
 public class FirstBadVersion {
