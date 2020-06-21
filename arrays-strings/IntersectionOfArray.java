@@ -3,6 +3,7 @@ import java.util.*;
 /*
  * Given 2 arrays, find the intersection between the and return it as a new array.
  * Time complexity = O(N + M), space complexity = O()
+ * https://leetcode.com/problems/intersection-of-two-arrays/
  */
 public class IntersectionOfArray {
     public int[] intersection(int[] nums1, int[] nums2) {
