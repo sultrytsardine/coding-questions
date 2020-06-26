@@ -5,7 +5,7 @@ import java.util.*;
  * This uses a reverse level order traversal and adds the rightmost node at each level to the results.
  * https://leetcode.com/problems/binary-tree-right-side-view
  */
-public class BinaryTreeRightSizeView {
+public class BinaryTreeRightSideView {
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> result = new ArrayList<>();
         Queue<TreeNode> queue = new LinkedList<>();
