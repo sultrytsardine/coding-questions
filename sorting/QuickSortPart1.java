@@ -5,7 +5,7 @@ import java.util.*;
  * left -> equal -> right (each separate part isn't necessarily ordered);
  * https://www.hackerrank.com/challenges/quicksort1
  */
-public class QuickSort1 {
+public class QuickSortPart1 {
     public int[] quickSort(int[] arr) {
         int len = arr.length;
         int pivot = arr[0];
