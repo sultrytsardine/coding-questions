@@ -7,7 +7,7 @@ import java.util.*;
  * 2 - order the arrays and then iterate over using a pointer for each array.
  * https://leetcode.com/problems/intersection-of-two-arrays-ii
  */
-public class IntersectionOfArrayII {
+public class IntersectionOfArrayPart2 {
     /*
      * Solution 1
      */
